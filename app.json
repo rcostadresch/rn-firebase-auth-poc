@@ -1,4 +1,7 @@
 {
   "name": "FirebaseAuthPoC",
-  "displayName": "FirebaseAuthPoC"
+  "displayName": "FirebaseAuthPoC",
+  "expo": {
+    "scheme": "firebase.auth.poc"
+  }
 }
